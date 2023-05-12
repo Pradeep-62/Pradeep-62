@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pradeep Shakya</h1>
+<h1 align="center">Hi 👋, I'm Pradeep Shakya </h1>
 <h3 align="center">Currently pursuing B.Tech from NIT Bhopal</h3>
 
 <img align="right" alt="wait" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
